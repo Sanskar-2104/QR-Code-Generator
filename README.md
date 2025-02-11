@@ -59,6 +59,10 @@ qr-code-generator/
    - Double-click on the `index.html` file.
    - Or use a live server in your code editor.
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ## 🔧 Customization
 
 - **Add More Sizes:**  
