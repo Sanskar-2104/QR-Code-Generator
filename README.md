@@ -59,3 +59,7 @@ qr-code-generator/
    - Double-click on the `index.html` file.
    - Or use a live server in your code editor.
 
+## 🔧 Customization
+
+- **Add More Sizes:**  
+  To add more size options
